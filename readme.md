@@ -69,10 +69,6 @@ Micro Serviços e uma organização de no desenvolvimento de Softwares, Que cons
 
 ---------------------------------------------------------------------------------------------------------------------
 
-O que significa arquitetura de microserviços
-
----------------------------------------------------------------------------------------------------------------------
-
 Qual a vantagens e desvantagem de usar monolito
 
 1 - Ele tem um deploy bem menos complexo do que a arquitetura de microserviços.
