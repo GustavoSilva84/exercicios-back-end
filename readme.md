@@ -65,7 +65,7 @@ A principal diferença entre SOAP e REST e que o SOAP tem regras bem mais rígid
 --------------------------------------------------------------------------------------------------------------------
 O que são microserviços
 
-Micro Serviços e uma organização de no desenvolvimento de Softwares, Que consiste em dividir uma aplicação em vários pedaços independente mais que se comunicam em três si.
+Micro Serviços e uma organização de no desenvolvimento de Softwares, Que consiste em dividir uma aplicação em vários pedaços independente mais que comunicam em três si.
 
 ---------------------------------------------------------------------------------------------------------------------
 
@@ -77,15 +77,15 @@ Qual a vantagens e desvantagem de usar monolito
 
 Ponto negativo 
 
-1 - Ele possui uma manutenção mais complicada, Pois se aplicação for muito isso, será um problema na hora da manutenção, pois se o correr um erro em determinado local do código, possível mente toda aplicação será comprometida.
+1 - Ele possui uma manutenção mais complicada, Pois se aplicação for muito grande, isso poderá será um problema na hora da manutenção, pois se o correr um erro em determinado local do código, possível mente toda aplicação será comprometida.
 
 ------------------------------------------------------------------------------------------------------------------------
 
 Pontos positivos do microserviços
 
-1 - Com a arquitetura de microserviços e bem mais fácil de fazer adicionar novas funcionalidades fazer manutenção em código
+1 - Com a arquitetura de microserviços e bem mais fácil de fazer adicionar novas funcionalidades fazer manutenção do código
 
-2 - Por ele ser dividido em vários pedaços se um dos módulos der defeito ele não irá comprometer os outros
+2 - Por ele ser dividido em vários pedaços, se um dos módulos der defeito ele não irá comprometer os outros
 
 Pontos negativos
 
@@ -99,7 +99,7 @@ Qual a diferença de monolito para microserviço
 
 Monolito
 
-Uma aplicação Monolitica e quando todos os recursos da aplicação está no mesmo código e no mesmo repositório, Ou seja isso não e muito recomendado para certas aplicação, Pois se uns do recurso der defeito toda aplicação irá ser comprometida. 
+Uma aplicação Monolitico e quando todos os recursos da aplicação está no mesmo código e no mesmo repositório, Ou seja isso não e muito recomendado para certas aplicação, Pois se uns do recurso der defeito toda aplicação irá ser comprometida. 
 
 Microserviço 
 
